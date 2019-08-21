@@ -1,0 +1,11 @@
+                                                                 MongoDB
+
+CMD shell:
+C:\Program Files\MongoDB\Server\4.0\bin
+
+C:\Program Files\MongoDB\Server\4.0\bin\mongo
+
+show dbs;
+use mongodbq;
+show collections;
+show cars;
